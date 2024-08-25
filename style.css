@@ -8,7 +8,8 @@
 
 body {
     font-family: "Poppins", sans-serif;
-    background-image: linear-gradient(to top, #4e6291 0%, #1f2228 100%);
+    background: url('assets/webBg.jpg') no-repeat center center fixed;
+    background-size: cover;
     display: flex;
     justify-content: center;
     align-items: center;
